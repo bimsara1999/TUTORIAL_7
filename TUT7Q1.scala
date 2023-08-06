@@ -20,10 +20,6 @@ object TUT7Q1 {
 }
 
 
-//The filter function is a higher-order function in Scala that 
-//takes a predicate function as an argument and returns a new collection containing only the elements 
-//that satisfy the predicate. In this case, we are using a lambda function to check if the number is even (num % 2 == 0),
-//and only the even numbers are kept in the result list.
 
 
 
