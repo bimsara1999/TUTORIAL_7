@@ -18,7 +18,4 @@ object TUT7Q2 {
          }
          
     }
-//The map function is another higher-order function in Scala that takes a transformation function as an argument and returns 
-//a new collection resulting from applying the function to each element of the original collection. In this case, we are using a lambda function to calculate the 
-//square of each number (num * num) in the input list, and the result is a new list containing the squares of the numbers in the same order.
        
